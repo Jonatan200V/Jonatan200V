@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Me llamo Jonatan Valdiviezo</h1>
+<h1 align="center">Hola 👋, Me llamo Jonatan Valdiviezo</h1>
 <h3 align="center">Soy un programador entusiasta</h3>
 
 - 🌱 Actualmente estoy aprendiendo **Next.js**
