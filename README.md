@@ -19,7 +19,7 @@
 <br/>  
 
 
-## My Skill Set  
+## Mis habilidades Tecnicas. 
 <table><tr><td valign="top" width="33%">
 
 
@@ -69,7 +69,7 @@
 <br/>  
 
 
-## Connect with me  
+## Contactame  
 <div align="center">
 <a href="https://github.com/jonatan200v" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -89,7 +89,7 @@
 <br/>  
 
 
-## Github Stats  
+## Estadisticas de Github 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jonatanV&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
@@ -107,7 +107,3 @@
 <br/>  
 
 
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
